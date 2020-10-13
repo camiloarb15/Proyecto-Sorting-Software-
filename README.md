@@ -1,5 +1,5 @@
 # Sorting Software
-![enter image description here](https://lh3.googleusercontent.com/E6nssJ2u3StzyuAvIrvMwEUESXmSPEkgXvoaFXW64ISpPXIrtqgO3_wXekOhkSeG01IwYdyB1tE)   
+![logo proyecto 2 0](https://user-images.githubusercontent.com/50506814/95923563-60235980-0d7b-11eb-9ffe-101ee80aee6f.png)
 
 # Objetivo General.
 
