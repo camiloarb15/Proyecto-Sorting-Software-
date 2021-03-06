@@ -13,13 +13,12 @@ $categoria_id=$_POST['categoria_id'];
 
     else{
 include "conexion.php"; 
-    }
-$statement = $conexion->prepare('INSERT INTO libro, categoria, autor (codigo_libro, titulo libro, , categoria_id)
-VALUES (:, :password, :checkbox)');
-$statement->execute(array(
-':usuario' => $usuario,
-':password' => $password,
-':checkbox' => $checkbox));
+
+$sentencia="INSERT INTO libro  ( cod_libro,titulo_libro, autor_id, categoria_id) values ('$cod_libro','$titulo_libro','$autor_id','$categoria_id')";
+$db->query($sentencia) ;
+header("location:admin.php");
+}
+
 
 ?>
 

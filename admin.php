@@ -48,12 +48,11 @@ include("seguridad_general.php");
                     <input type="submit" value="BUSCAR" class="pure-button pure-button-primary" name="btn_buscar">
                     <a href='nuevo_libro1.php'><button type='button' class="pure-button pure-button-primary" name="btn_buscar">NUEVO</button> </a>
                     <a href='form_modi.php'><button type='button' class="pure-button pure-button-primary" name="btn_buscar">EDITAR</button> </a>
-                    <a href='form_elim.php'><button type='button' class="pure-button pure-button-primary" name="btn_buscar">QUITAR</button> </a>
+                    <a href='form_elim.php'><button type='button' class="pure-button pure-button-primary" name="btn_buscar">ELIMINAR</button> </a>
                 </form>
             </div>
         </div>
     </div>
-
 
 
 
